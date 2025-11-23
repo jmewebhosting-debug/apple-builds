@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": "core/dummy.txt",
+      "url": "https://raw.githubusercontent.com/jmewebhosting-debug/appla-builds/main/builds/1.0.1/core/dummy.txt"
+    }
+  ]
+}
